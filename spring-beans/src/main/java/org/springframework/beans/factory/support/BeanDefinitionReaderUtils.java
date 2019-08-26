@@ -93,6 +93,7 @@ public abstract class BeanDefinitionReaderUtils {
 	}
 
 	/**
+	 * 自动生成bean的name  如果既没有id 也没有name的话
 	 * Generate a bean name for the given bean definition, unique within the
 	 * given bean factory.
 	 * @param definition the bean definition to generate a bean name for

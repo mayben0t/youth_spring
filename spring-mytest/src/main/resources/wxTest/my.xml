@@ -1,0 +1,20 @@
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+
+<!--<!DOCTYPE people [-->
+<!--		<!ELEMENT person EMPTY>-->
+<!--		<!ELEMENT people (person*)>-->
+<!--		<!ELEMENT age EMPTY>-->
+<!--		<!ELEMENT name EMPTY>-->
+<!--		<!ELEMENT person (name,age)>-->
+<!--		]>-->
+
+<!--<people>-->
+<!--	<person>-->
+<!--		<name>王骁</name>-->
+<!--		<age>24</age>-->
+<!--	</person>-->
+<!--	<person>-->
+<!--		<name>测试</name>-->
+<!--		<age>22</age>-->
+<!--	</person>-->
+<!--</people>-->
